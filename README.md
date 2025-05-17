@@ -60,6 +60,10 @@ my_ml_app/
 ├── best_reg_model.pkl     # (Généré après entraînement)
 ```
 
+![Uploading my_app.png…]()
+
+
+
 ## 👤 Auteur
 
 Développé par [Josias Nteme](https://www.linkedin.com/in/josias-nteme-95757721a/)  
