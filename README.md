@@ -60,8 +60,9 @@ my_ml_app/
 ├── best_reg_model.pkl     # (Généré après entraînement)
 ```
 
-![Uploading my_app.png…]()
 
+
+![my_app](https://github.com/user-attachments/assets/7598eb72-830a-4bc8-9e5b-2953bdcd122a)
 
 
 ## 👤 Auteur
